@@ -150,6 +150,15 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
