@@ -22,3 +22,6 @@ package-lock.json
 !.vscode/extensions.json
 
 # Misc
+
+_posts/template
+.obsidian
